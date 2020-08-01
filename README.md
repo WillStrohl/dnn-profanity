@@ -20,4 +20,4 @@ This list was originally obtained and based on the list found at the URL below. 
 
 ## Files  
 * _Add-Profanity-List.sql_ - Use this file if you're executing the script using SQL Server Management Studio (SSMS).   
-* _Add-Profanity-List.sql_ - Use this file if you're executing the script in DNN's SQL Console in the  persona bar.  
+* _Add-Profanity-List.sql_ - Use this file if you're executing the script in [DNN's SQL Console in the persona bar](https://www.youtube.com/watch?v=aXjNtsVK1D8).  
