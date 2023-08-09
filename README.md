@@ -21,3 +21,15 @@ This list was originally obtained and based on the list found at the URL below. 
 ## Files  
 * _Add-Profanity-List.sql_ - Use this file if you're executing the script using SQL Server Management Studio (SSMS).   
 * _Add-Profanity-List.SqlDataProvider_ - Use this file if you're executing the script in [DNN's SQL Console in the persona bar](https://www.youtube.com/watch?v=aXjNtsVK1D8).  
+
+<hr />  
+
+## `Sponsors == (typeOf superHuman) Awesome;`  
+
+> Yes, it's not real code. It's just supposed to be fun. :P
+
+This solution is created and maintained by [Upendo Ventures](https://upendoventures.com/What/CMS/DNN) for the [DNN CMS Community](https://dnncommunity.org). Please consider [sponsoring us](https://github.com/sponsors/UpendoVentures) for this and [the many other open-source efforts we do](https://upendoventures.com/What/CMS/DNN/Extensions).  It's a lot.  :)  
+
+- [Sponsor Us](https://github.com/sponsors/UpendoVentures) (we're grateful at any level 🙏🏽)  
+
+<hr />   
